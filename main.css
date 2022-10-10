@@ -1,11 +1,33 @@
 body {
-  background-color: white;
+  background-color: lavender;
+}
+
+img
+{
+  width: 50px;
+}
+
+h2
+{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+text-align: center;
+border: 1px;
+border-style: solid;
+border-color: lightblue;
 }
 
 .ContentLayoutWrapper
 {
-  
 display: flex;
 flex-direction: row;
+margin-left: 275px;
+}
 
+.Availiability {
+  background-color: rgb(79, 79, 79);
+  color: rgb(228, 236, 16);
+  font: monospace;
+  margin-bottom: 15px;
+  border: 30px;
 }
