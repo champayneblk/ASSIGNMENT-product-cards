@@ -9,12 +9,24 @@ img
 
 h2
 {
- font-family: Georgia, 'Times New Roman', Times, serif;
+font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: italic;
 text-align: center;
 border: 1px;
 border-style: solid;
 border-color: lightblue;
+}
+
+h6
+{
+  font-style: italic;
+  text-align: left;
+}
+.specs
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 15px;
+   
 }
 
 .ContentLayoutWrapper
